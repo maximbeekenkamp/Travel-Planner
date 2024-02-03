@@ -1,0 +1,9 @@
+origin,destination,type,price,duration
+London,Paris,train,100,1
+London,Berlin,train,150,4
+Paris,Berlin,bus,70,1
+Paris,Madrid,plane,200,2
+Berlin,Rome,plane,300,3
+Madrid,London,plane,600,1
+Madrid,Paris,train,200,2
+Madrid,Rome,bus,700,10

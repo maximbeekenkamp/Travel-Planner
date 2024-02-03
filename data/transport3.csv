@@ -1,0 +1,10 @@
+origin,destination,type,price,duration
+New York,Los Angeles,plane,500,5
+New York,San Francisco,plane,400,4
+Los Angeles,San Francisco,train,200,2
+Chicago,Houston,bus,150,2
+New York,Houston,train,200,4
+Chicago,Los Angeles,plane,100,7
+Houston,Los Angeles,train,200,2
+San Francisco,New York,plane,500,4
+New York,Chicago,train,200,3
