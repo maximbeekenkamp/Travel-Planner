@@ -1,0 +1,18 @@
+Tests for cities 3 and transport 3 files:
+
+1. mostDirectRoute between Chicago and LA is 1
+2. fastestRoute between Chicago and LA is 4
+3. cheapestRoute between Chicago and LA is 100
+4. mostDirectRoute between Chicago and New York is 3
+5. fastestRoute between New York and LA is 5
+6. cheapestRoute between New York and LA is 300
+7. mostDirectRoute between New York and LA is 1
+
+Tests for cities 4 and transport 4 files:
+1. mostDirectRoute between Berlin and Rome is 1
+2. fastestRoute between London and Berlin is 2
+3. cheapestRoute between London and Berlin is 150
+4. mostDirectRoute between London and Berlin is 1
+5. fastestRoute between Madrid and Rome is 6
+6. cheapestRoute between Madrid and Rome is 570
+7. mostDirectRoute between Madrid and Rome is 1
